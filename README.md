@@ -5,7 +5,8 @@
 ## osTicket - Ticket Lifecycle: Intake Through Resolution ##
 > This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. In this demo, we will be creating tickets as end users. Observing all the ticket properties and responding to them as help desk professionals.
  - 🔗 Admin & Agent Login Page: `http://localhost/osTicket/scp/login.php`
- - 🔗 End User's osTicket Page: `http://localhost/osTicket` <br />
+ - 🔗 End User's osTicket Page: `http://localhost/osTicket`
+ - 🗒️ Video Demo shows all ticket lifecycles.  <br />
 ---
 
 ## Video Demonstration ##
