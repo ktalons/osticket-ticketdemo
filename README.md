@@ -30,7 +30,7 @@
 
 <h2>Lifecycle Stages</h2>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
+<img src="https://github.com/user-attachments/assets/50b9c74e-b39e-475e-b230-e8c77e69474a" /> <br />
 
 1️⃣ Intake ⤵️
 - As an end-user, create the following tickets:
@@ -40,32 +40,32 @@
 > - Ticket 4: Karen forgot her password
 ---
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
+<img src="https://github.com/user-attachments/assets/d92b5db3-cf2b-4066-8aef-83065d63b092" /> <br />
+<img src="https://github.com/user-attachments/assets/9a468cd5-7fc8-47b2-8036-a8ba74108b8f" /> <br />
 
 2️⃣ Assignment and Communication ⤵️
 - Set Properties to all the tickets:
-> - _Switch to admin panel and assign yourself View-access to Sys Admins_
-> - _Switch to agent panel and observe the escalated ticket_
-> - _Observe ticket becomes inaccessible_
-> - _Do SEV-A `SysAdmins` last_
-- Set Properties to the tickets:
-> - Ticket 1: `Sev-A` (1 hour, 24/7), `Online Banking Department`
+> - Switch to `Admin panel` and assign **Jenny Doe** Extended Access to `Sys Admins` department with `View Only` access.
+> - Log in as **Jenny Doe** and observe the escalated ticket in view only access.
+> - Log in as **Johnny Doe** and observe ticket becomes inaccessible.
+- Set Properties to other tickets:
 > - Ticket 2: `Sev-B` (4 hours, 24/7), `Support`
 > - Ticket 3: `Sev-C` (Business Hours), `Support`
 > - Ticket 4: `Sev-B` (4 hours, 24/7), `Support` 
 ---
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
+<img src="https://github.com/user-attachments/assets/edce1b88-f744-491d-8bed-b8913de96cce" />
+<img src="https://github.com/user-attachments/assets/c94bf4a4-eab1-4004-87a9-837837d14a15" /> <br />
 
 3️⃣ Working the Issue ⤵️
 - Solve all of the tickets:
-> - Ticket 1: As a Help Desk Agent **Jenny**, observe the ticket’s properties:
+> - Ticket 1: As a Help Desk Agent **AdminUser**, observe the ticket’s properties:
+    > - `Priority`, `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **AdminUser**.
+> - Ticket 2: As a Help Desk Agent **Jenny**, observe the ticket’s properties:
     > - `Priority`, `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **Jenny**.
-> - Ticket 2: As a Help Desk Agent **Johnny**, observe the ticket’s properties:
+> - Ticket 3: As a Help Desk Agent **Johnny**, observe the ticket’s properties:
     > - `Priority`, `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **Johnny**.
-> - _Ticket 2: As a Help Desk Agent **Johnny**, observe the ticket’s properties:_
-    > - _`Priority`, `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **Johnny**._
-> - _Ticket 2: As a Help Desk Agent **Johnny**, observe the ticket’s properties:_
-    > - _`Priority`, `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **Johnny**._
+> - Ticket 4: As a Help Desk Agent **Johnny**, observe and assign the ticket’s properties:
+    > - `Priority`, `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **Jenny**.
 ---
 
