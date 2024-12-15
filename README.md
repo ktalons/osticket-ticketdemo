@@ -47,8 +47,8 @@
 2️⃣ Assignment and Communication ⤵️
 - Set Basic Properties to all tickets:
 > - Ticket 1: `Sev-A` (1 hour, 24/7), `SysAdmin`
-> - Ticket 2: `Sev-B` (4 hours, 24/7), `Support`
-> - Ticket 3: `Sev-C` (Business Hours), `Support`
+> - Ticket 2: `Sev-C` (4 hours, 24/7), `Support`
+> - Ticket 3: `Sev-B` (Business Hours), `Support`
 > - Ticket 4: `Sev-B` (4 hours, 24/7), `Support` 
 - Assign and Observe Agent Permissions:
 > - Switch to `Admin panel` and assign **Jenny Doe** Extended Access to `Sys Admins` department with `View Only` access.
