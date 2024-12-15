@@ -10,7 +10,7 @@
 ---
 
 ## Video Demonstration ##
-### [<img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" align="center" width="40" height="40">](https://www.youtube.com/channel/UC9YvuJxKB94ByhwCfZQ_5Kg) [osTicket Post Install Configuration](https://youtu.be/7HAPxk8Glic)
+### [<img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" align="center" width="40" height="40">](https://www.youtube.com/channel/UC9YvuJxKB94ByhwCfZQ_5Kg) [osTicket Intake Through Resolution](https://youtu.be/3yO0TNwbC_k)
 
 <h2>Environments and Technologies Used</h2>
 
