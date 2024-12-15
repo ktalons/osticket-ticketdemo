@@ -2,11 +2,11 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-## osTicket - Ticket Lifecycle: Intake Through Resolution ##
-> This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. In this demo, we will be creating tickets as end users. Observing all the ticket properties and responding to them as help desk professionals.
+## osTicket - Intake Through Resolution ##
+> This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. In this demo, we will be creating tickets as end users. Observing the main ticket properties and responding to them as help desk professionals.
  - 🔗 Admin & Agent Login Page: `http://localhost/osTicket/scp/login.php`
  - 🔗 End User's osTicket Page: `http://localhost/osTicket`
- - 🗒️ Video Demo shows all ticket lifecycles.  <br />
+ - 🗒️ Video demo shows all ticket lifecycles.  <br />
 ---
 
 ## Video Demonstration ##
@@ -45,14 +45,15 @@
 <img src="https://github.com/user-attachments/assets/9a468cd5-7fc8-47b2-8036-a8ba74108b8f" /> <br />
 
 2️⃣ Assignment and Communication ⤵️
-- Set Properties to all the tickets:
-> - Switch to `Admin panel` and assign **Jenny Doe** Extended Access to `Sys Admins` department with `View Only` access.
-> - Log in as **Jenny Doe** and observe the escalated ticket in view only access.
-> - Log in as **Johnny Doe** and observe ticket becomes inaccessible.
-- Set Properties to other tickets:
+- Set Basic Properties to all tickets:
+> - Ticket 1: `Sev-A` (1 hour, 24/7), `SysAdmin`
 > - Ticket 2: `Sev-B` (4 hours, 24/7), `Support`
 > - Ticket 3: `Sev-C` (Business Hours), `Support`
 > - Ticket 4: `Sev-B` (4 hours, 24/7), `Support` 
+- Assign and Observe Agent Permissions:
+> - Switch to `Admin panel` and assign **Jenny Doe** Extended Access to `Sys Admins` department with `View Only` access.
+> - Log in as **Jenny Doe** and observe the escalated ticket in view only access.
+> - Log in as **Johnny Doe** and observe ticket becomes inaccessible.
 ---
 
 <img src="https://github.com/user-attachments/assets/edce1b88-f744-491d-8bed-b8913de96cce" />
@@ -61,12 +62,12 @@
 3️⃣ Working the Issue ⤵️
 - Solve all of the tickets:
 > - Ticket 1: As a Help Desk Agent **AdminUser**, observe the ticket’s properties:
-    > - `Priority`, `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **AdminUser**.
+    > - `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **AdminUser**.
 > - Ticket 2: As a Help Desk Agent **Jenny**, observe the ticket’s properties:
-    > - `Priority`, `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **Jenny**.
+    > - `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **Jenny**.
 > - Ticket 3: As a Help Desk Agent **Johnny**, observe the ticket’s properties:
-    > - `Priority`, `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **Johnny**.
+    > - `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **Johnny**.
 > - Ticket 4: As a Help Desk Agent **Johnny**, observe and assign the ticket’s properties:
-    > - `Priority`, `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **Jenny**.
+    > - `Department`, `SLA`, `Assigned To`. Work the ticket to completion as **Jenny**.
 ---
 
